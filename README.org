@@ -1,0 +1,23 @@
+* Emacs Buddy initiative
+:PROPERTIES:
+:CREATED:  [2022-02-27 Sun 21:58]
+:ID:       73dbe494-30e7-44a5-b97b-491d43033cdc
+:END:
+
+This is an experiment to setup an Emacs Buddy mentoring to make Emacs
+easier to learn. This means you can have an experienced somebody to
+periodically contact for your Emacs struggles.
+
+Here a list of people available as buddies:
+
+| Name   | Summary                                                      | Useful Links           |
+|--------+--------------------------------------------------------------+------------------------|
+| Andrea | I use vanilla Emacs with an Org Mode literate configuration. | https://ag91.github.io |
+|        | I like to automate boring tasks with Emacs Lisp.             |                        |
+|--------+--------------------------------------------------------------+------------------------|
+
+If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
+address]] and I will get you in touch.
+
+Further information:
+https://ag91.github.io/blog/2022/02/23/would-you-like-an-emacs-buddy-i-can-help/
