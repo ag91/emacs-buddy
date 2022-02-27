@@ -10,11 +10,13 @@ periodically contact for your Emacs struggles.
 
 Here a list of people available as buddies:
 
-| Name   | Summary                                                      | Useful Links           |
-|--------+--------------------------------------------------------------+------------------------|
-| Andrea | I use vanilla Emacs with an Org Mode literate configuration. | https://ag91.github.io |
-|        | I like to automate boring tasks with Emacs Lisp.             |                        |
-|--------+--------------------------------------------------------------+------------------------|
+| Name   | Summary                                                                    | Useful Links                               |
+|--------+----------------------------------------------------------------------------+--------------------------------------------|
+| Andrea | I use vanilla Emacs with an Org Mode literate configuration.               | https://ag91.github.io                     |
+|        | I like to automate boring tasks with Emacs Lisp.                           |                                            |
+|--------+----------------------------------------------------------------------------+--------------------------------------------|
+| Justin | I cobble together many packages and have written some org-mode extensions. | https://justin.abrah.ms/dotfiles/emacs.htm |
+|        | Happy to help guide some new folks around.                                 |                                            |
 
 If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
 address]] and I will get you in touch.
