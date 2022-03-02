@@ -6,7 +6,7 @@
 
 This is an experiment to setup an Emacs Buddy mentoring to make Emacs
 easier to learn. This means you can have an experienced somebody to
-periodically contact for your Emacs struggles.
+periodically contact for your Emacs struggles. See below section for more.
 
 Here a list of people available as buddies:
 
@@ -31,3 +31,44 @@ address]] and I will get you in touch.
 
 Further information:
 https://ag91.github.io/blog/2022/02/23/would-you-like-an-emacs-buddy-i-can-help/
+
+
+** The idea in more detail
+:PROPERTIES:
+:CREATED:  [2022-03-02 Wed 18:46]
+:END:
+
+TL;DR: I see the buddy as a companion that you can have a creative
+chat and that will try to help you to achieve Emacs enlightenment, not
+your personal problem solver. (And I am not concerned about
+scalability, because it is about creating a personal interaction
+through our commonality: enjoying Emacs.)
+
+This initiative is about making your learning of Emacs more personal.
+An example of interaction I wish for:
+
+> **EmacsUserLookingForBuddy**: I am a physiotherapist, I struggle
+> keeping track of my clients and they told me Org Mode is a great
+> tool for that. I started with Emacs tutorial, but now how can I
+> handle my clients??
+
+**EmacsBuddy**: cool! You can find a great Org
+> Mode tutorial here and there is also a Reddit channel there. I can
+> help you better if you tell me some more about what is your struggle
+> with clients? For example, you struggle keeping track of
+> communication or timetable or ....? By the way, I got a back pain:
+> any chance you have a trick for that?! -- continues --
+
+So for me a buddy should nudge new users towards Emacs enlightenment
+focusing on the why they started using Emacs. A forum or a mailing
+list is more about solving a particular problem you have: the solution
+of such problems should be visible to everybody and fit a public
+forum. (Actually a great buddy would show their partner when is
+appropriate to move a conversation from private to a public channel!)
+
+If I use Emacs to keep track of my weird hobby, I may find it helpful
+to get the point of view of my buddy on how to make the best out of my
+editor for that. And I can also just start chatting about something
+totally unrelated to the problem because I am enjoying the conversation.
+
+Ideally you can make friends with the excuse!
