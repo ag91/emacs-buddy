@@ -6,27 +6,30 @@
 
 This is an experiment to setup an Emacs Buddy mentoring to make Emacs
 easier to learn. This means you can have an experienced somebody to
-periodically contact for your Emacs struggles.
+periodically contact for your Emacs struggles. See below section for more.
 
 Here a list of people available as buddies:
 
-| Name    | Summary                                                                        | Useful Links                               |
-|---------+--------------------------------------------------------------------------------+--------------------------------------------|
-| Andrea  | I use vanilla Emacs with an Org Mode literate configuration.                   | https://ag91.github.io                     |
-|         | I like to automate boring tasks with Emacs Lisp.                               |                                            |
-|---------+--------------------------------------------------------------------------------+--------------------------------------------|
-| Justin  | I cobble together many packages and have written some org-mode extensions.     | https://justin.abrah.ms/dotfiles/emacs.htm |
-|         | Happy to help guide some new folks around.                                     |                                            |
-|---------+--------------------------------------------------------------------------------+--------------------------------------------|
-| Jeremy  | I hack on vanilla Emacs with a focus on note taking and software development   | https://takeonrules.com                    |
-|         | I’m a veteran programmer new-ish to Emacs                                      |                                            |
-|---------+--------------------------------------------------------------------------------+--------------------------------------------|
-| Karthik | I maintain a few packages on MELPA, and occasionally write about Emacs here:   | https://karthinks.com/tags/emacs           |
-|         | I live in Emacs, and have been using it since 2005. Not a programmer by trade. |                                            |
-|---------+--------------------------------------------------------------------------------+--------------------------------------------|
-| Seba    | I am a software developer, using vanilla Emacs since 2017ish. Package author.  | https://github.com/sebasmonia              |
-|         | I use Emacs for C#, Python, Common Lisp and light note taking.                  |                                            |
-|---------+--------------------------------------------------------------------------------+--------------------------------------------|
+| Name     | Summary                                                                        | Useful Links                                             |
+|----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
+| Andrea   | I use vanilla Emacs with an Org Mode literate configuration.                   | https://ag91.github.io                                   |
+|          | I like to automate boring tasks with Emacs Lisp.                               |                                                          |
+|----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
+| Justin   | I cobble together many packages and have written some org-mode extensions.     | https://justin.abrah.ms/dotfiles/emacs.htm               |
+|          | Happy to help guide some new folks around.                                     |                                                          |
+|----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
+| Jeremy   | I hack on vanilla Emacs with a focus on note taking and software development   | https://takeonrules.com                                  |
+|          | I’m a veteran programmer new-ish to Emacs                                      |                                                          |
+|----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
+| Karthik  | I maintain a few packages on MELPA, and occasionally write about Emacs here:   | https://karthinks.com/tags/emacs                         |
+|          | I live in Emacs, and have been using it since 2005. Not a programmer by trade. |                                                          |
+|----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
+| Ranjeeth | I use vanilla Emacs to manage my personal finances, programming,               | https://www.youtube.com/channel/UCjkfxwk0EQI-ovUh8tXdX5A |
+|          | org-mode for tracking and planning, org-roam for research.                     | https://github.com/ranjeethmahankali                     |
+|----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
+| Seba     | I am a software developer, using vanilla Emacs since 2017ish. Package author.  | https://github.com/sebasmonia                            |
+|          | I use Emacs for C#, Python, Common Lisp and light note taking.                 |                                                          |
+|----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
 
 
 If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
@@ -34,3 +37,44 @@ address]] and I will get you in touch.
 
 Further information:
 https://ag91.github.io/blog/2022/02/23/would-you-like-an-emacs-buddy-i-can-help/
+
+
+** The idea in more detail
+:PROPERTIES:
+:CREATED:  [2022-03-02 Wed 18:46]
+:END:
+
+TL;DR: I see the buddy as a companion that you can have a creative
+chat and that will try to help you to achieve Emacs enlightenment, not
+your personal problem solver. (And I am not concerned about
+scalability, because it is about creating a personal interaction
+through our commonality: enjoying Emacs.)
+
+This initiative is about making your learning of Emacs more personal.
+An example of interaction I wish for:
+
+> **EmacsUserLookingForBuddy**: I am a physiotherapist, I struggle
+> keeping track of my clients and they told me Org Mode is a great
+> tool for that. I started with Emacs tutorial, but now how can I
+> handle my clients??
+
+**EmacsBuddy**: cool! You can find a great Org
+> Mode tutorial here and there is also a Reddit channel there. I can
+> help you better if you tell me some more about what is your struggle
+> with clients? For example, you struggle keeping track of
+> communication or timetable or ....? By the way, I got a back pain:
+> any chance you have a trick for that?! -- continues --
+
+So for me a buddy should nudge new users towards Emacs enlightenment
+focusing on the why they started using Emacs. A forum or a mailing
+list is more about solving a particular problem you have: the solution
+of such problems should be visible to everybody and fit a public
+forum. (Actually a great buddy would show their partner when is
+appropriate to move a conversation from private to a public channel!)
+
+If I use Emacs to keep track of my weird hobby, I may find it helpful
+to get the point of view of my buddy on how to make the best out of my
+editor for that. And I can also just start chatting about something
+totally unrelated to the problem because I am enjoying the conversation.
+
+Ideally you can make friends with the excuse!
