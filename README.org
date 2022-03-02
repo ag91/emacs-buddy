@@ -24,8 +24,8 @@ Here a list of people available as buddies:
 | Karthik | I maintain a few packages on MELPA, and occasionally write about Emacs here:   | https://karthinks.com/tags/emacs           |
 |         | I live in Emacs, and have been using it since 2005. Not a programmer by trade. |                                            |
 |---------+--------------------------------------------------------------------------------+--------------------------------------------|
-| Seba    | I am a software developer, using vanilla Emacs since 2017ish. I use it for C#, | https://github.com/sebasmonia              |
-|         | Python, Common Lisp and light note taking. Have a couple package in MELPA      |                                            |
+| Seba    | I am a software developer, using vanilla Emacs since 2017ish. Package author.  | https://github.com/sebasmonia              |
+|         | I use Emacs for C#, Python, Common Lisp and light note taking.                  |                                            |
 |---------+--------------------------------------------------------------------------------+--------------------------------------------|
 
 
