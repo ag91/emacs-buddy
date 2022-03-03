@@ -27,6 +27,9 @@ Here a list of people available as buddies:
 | Ranjeeth | I use vanilla Emacs to manage my personal finances, programming,               | https://www.youtube.com/channel/UCjkfxwk0EQI-ovUh8tXdX5A |
 |          | org-mode for tracking and planning, org-roam for research.                     | https://github.com/ranjeethmahankali                     |
 |----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
+| Seba     | I am a software developer, using vanilla Emacs since 2017ish. Package author.  | https://github.com/sebasmonia                            |
+|          | I use Emacs for C#, Python, Common Lisp and light note taking.                 |                                                          |
+|----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
 
 
 If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
