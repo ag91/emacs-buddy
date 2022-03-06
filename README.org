@@ -48,6 +48,7 @@ https://ag91.github.io/blog/2022/02/23/would-you-like-an-emacs-buddy-i-can-help/
 ** The idea in more detail
 :PROPERTIES:
 :CREATED:  [2022-03-02 Wed 18:46]
+:ID:       d4c7ae2a-1f22-48be-9fe6-6f290986ec04
 :END:
 
 TL;DR: I see the buddy as a companion that you can have a creative
@@ -59,17 +60,20 @@ through our commonality: enjoying Emacs.)
 This initiative is about making your learning of Emacs more personal.
 An example of interaction I wish for:
 
-> **EmacsUserLookingForBuddy**: I am a physiotherapist, I struggle
-> keeping track of my clients and they told me Org Mode is a great
-> tool for that. I started with Emacs tutorial, but now how can I
-> handle my clients??
+#+begin_src verbatim
+**EmacsUserLookingForBuddy**: I am a physiotherapist, I struggle
+keeping track of my clients and they told me Org Mode is a great
+tool for that. I started with Emacs tutorial, but now how can I
+handle my clients??
+
 
 **EmacsBuddy**: cool! You can find a great Org
-> Mode tutorial here and there is also a Reddit channel there. I can
-> help you better if you tell me some more about what is your struggle
-> with clients? For example, you struggle keeping track of
-> communication or timetable or ....? By the way, I got a back pain:
-> any chance you have a trick for that?! -- continues --
+Mode tutorial here and there is also a Reddit channel there. I can
+help you better if you tell me some more about what is your struggle
+with clients? For example, you struggle keeping track of
+communication or timetable or ....? By the way, I got a back pain:
+any chance you have a trick for that?! -- continues --
+#+end_src
 
 So for me a buddy should nudge new users towards Emacs enlightenment
 focusing on the why they started using Emacs. A forum or a mailing
