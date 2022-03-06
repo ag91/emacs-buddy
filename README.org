@@ -30,6 +30,9 @@ Here a list of people available as buddies:
 | Seba     | I am a software developer, using vanilla Emacs since 2017ish. Package author.  | https://github.com/sebasmonia                            |
 |          | I use Emacs for C#, Python, Common Lisp and light note taking.                 |                                                          |
 |----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
+| Philip   | Interested in using and prompting the usage of Emacs /as/ Emacs, and as a tool | https://www.emacswiki.org/emacs/pkal                                                         |
+|          | to practically realise Free Software.                                          |                                                          |
+|----------+--------------------------------------------------------------------------------+----------------------------------------------------------|
 
 
 If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
