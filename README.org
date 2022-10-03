@@ -33,9 +33,6 @@ Here a list of people available as buddies:
 | Phil       | Emacs user and hacker since <OMG I'm old>.  Escapee from lead "enterprise"       | https://www.emacswiki.org/emacs/PhilHudson               |
 |            | development.  Casual contributor to Emacs packages and community forums.         |                                                          |
 |------------+----------------------------------------------------------------------------------+----------------------------------------------------------|
-| Philip     | Interested in using and prompting the usage of Emacs /as/ Emacs, and as a tool   | https://www.emacswiki.org/emacs/pkal                     |
-|            | to practically realise Free Software.                                            |                                                          |
-|------------+----------------------------------------------------------------------------------+----------------------------------------------------------|
 | Alessandro | I am happily learning vanilla Emacs. I use it for C/C++ development,             | https://github.com/bertulli                              |
 |            | and org mode for writing prose and taking notes.                                 |                                                          |
 |            | I am still learning, but I'm happy to help newbies like everyone of us once was. |                                                          |
