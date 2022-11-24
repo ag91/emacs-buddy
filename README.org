@@ -42,6 +42,9 @@ Here a list of people available as buddies:
 |            | Elisp.  I also use Emacs to manage email (via =notmuch=), read RSS feeds (=elfeed=), |                                                          |
 |            | read books/articles in PDF (=pdf-tools=), and track my finances (=ledger-mode=).     |                                                          |
 |------------+--------------------------------------------------------------------------------------+----------------------------------------------------------|
+| Tony       | I'm a mathematician and Haskell programmer who lives inside of vanilla Emacs.        | https://tony-zorman.com/                                 |
+|            | I've written a few MELPA packages, and occasionally blog about Emacs.                |                                                          |
+|------------+--------------------------------------------------------------------------------------+----------------------------------------------------------|
 
 
 
