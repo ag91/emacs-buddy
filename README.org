@@ -52,7 +52,11 @@ Here a list of people available as buddies:
 | Andrew     | I'm a software developer using vanilla Emacs since about 2017.                        | https://github.com/andyjda/                              |
 |            | I use it mostly to program, professionally and as a hobby, and as a note-taking tool. |                                                          |
 |------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
-
+| George     | I've used Emacsen since before GNU (starting on TECO/TOPS20),                         | [[http://git.galthub.com:3000/gmj/home.public.emacs.d/src/master/.emacs.d/george.org][George's literate Emacs configuration]]                    |
+|            | but let's get one thing straight, nobody every "arrives" in Emacs.                    |                                                          |
+|            | I'm here to learn as well.   Emacs and Org-mode are the base of my grand plan         |                                                          |
+|            | to integrate infosec, hiking, Latin, philosophy, TODO lists.....                      |                                                          |
+|------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
 
 
 If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
