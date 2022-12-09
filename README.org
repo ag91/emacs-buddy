@@ -62,7 +62,9 @@ Here a list of people available as buddies:
 |            | I wonʼt claim to be the worldʼs greatest elisp programmer,                            |                                                          |
 |            | but I can normally help people out with the basics.                                   |                                                          |
 |------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
-|            |                                                                                       |                                                          |
+| David      | I've been using Emacs for various tasks for 18 years                                  | https://www.youtube.com/@davidotoole3296/videos          |
+|            | and would be happy to help out people of any skill level.                             |                                                          |
+|------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
 
 If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
 address]] and I will get you in touch.
