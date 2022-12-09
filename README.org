@@ -57,7 +57,12 @@ Here a list of people available as buddies:
 |            | I'm here to learn as well.   Emacs and Org-mode are the base of my grand plan         |                                                          |
 |            | to integrate infosec, hiking, Latin, philosophy, TODO lists.....                      |                                                          |
 |------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
-
+| Robert     | My main areas of expertise are: emoji, Unicode, some Org Mode, Gnus,                  |                                                          |
+|            | Emacs internals (networking/subrpocess), documentation.                               |                                                          |
+|            | I wonʼt claim to be the worldʼs greatest elisp programmer,                            |                                                          |
+|            | but I can normally help people out with the basics.                                   |                                                          |
+|------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
+|            |                                                                                       |                                                          |
 
 If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
 address]] and I will get you in touch.
