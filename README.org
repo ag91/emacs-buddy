@@ -4,6 +4,8 @@
 :ID:       73dbe494-30e7-44a5-b97b-491d43033cdc
 :END:
 
+[[https://www.youtube.com/watch?v=UlZXd4VqbI8][Talk at EmacsConf22]]
+
 This is an experiment to setup an Emacs Buddy mentoring to make Emacs
 easier to learn. This means you can have an experienced somebody to
 periodically contact for your Emacs struggles. See below section for more.
