@@ -17,7 +17,7 @@ Here a list of people available as buddies:
 | Andrea     | I use vanilla Emacs with an Org Mode literate configuration.                          | https://ag91.github.io                                   |
 |            | I like to automate boring tasks with Emacs Lisp.                                      |                                                          |
 |------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
-| Justin     | I cobble together many packages and have written some org-mode extensions.            | https://justin.abrah.ms/dotfiles/emacs.htm               |
+| Justin     | I cobble together many packages and have written some org-mode extensions.            | https://justin.abrah.ms/dotfiles/emacs.html              |
 |            | Happy to help guide some new folks around.                                            |                                                          |
 |------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
 | Jeremy     | I hack on vanilla Emacs with a focus on note taking and software development          | https://takeonrules.com                                  |
