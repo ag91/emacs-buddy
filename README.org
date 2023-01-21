@@ -78,6 +78,10 @@ Here a list of people available as buddies:
 |-------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
 | Y.K.        | I've been a software developer for 20 years. I use Spacemacs.                         | https://ykgoon.com/                                      |
 |             | Code within emacs; heavy org-mode user.                                               | https://github.com/ykgoon                                |
+|-------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
+| Alex        | Emacs user since GNU Emacs 18, 30+ years ago. Occasional code submitter (see a bug,   | https://abochannek.github.io/                            |
+|             | fix a bug) and always looking for a chance to spread Emacs knowledge. Former full-    | https://github.com/abochannek                            |
+|             | time computer historian. Heavy Gnus and Org Mode user!                                |                                                          |
 
 If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
 address]] and I will get you in touch.
