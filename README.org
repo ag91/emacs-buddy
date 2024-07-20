@@ -82,6 +82,9 @@ Here a list of people available as buddies:
 | Alex        | Emacs user since GNU Emacs 18, 30+ years ago. Occasional code submitter (see a bug,   | https://abochannek.github.io/                            |
 |             | fix a bug) and always looking for a chance to spread Emacs knowledge. Former full-    | https://github.com/abochannek                            |
 |             | time computer historian. Heavy Gnus and Org Mode user!                                |                                                          |
+|-------------+---------------------------------------------------------------------------------------+----------------------------------------------------------|
+| Slavek      | I'd be happy to show my config or help you with yours on an audio-video call.         | https://slawomir-grochowski.com/                         |
+|             | PHP Developer. I live in plain text. Emacs & org-mode user for live since 2019.       |                                                          |
 
 If you want to contact one of the buddies above, ping me at [[mailto:andrea-dev@hotmail.com][my email
 address]] and I will get you in touch.
